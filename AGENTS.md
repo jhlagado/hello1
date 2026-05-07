@@ -3,6 +3,7 @@
 - Inspect before editing. Match existing patterns.
 - Keep changes small, specific, and reversible.
 - Preserve user work. Do not revert unrelated changes.
+- Prioritize shipping prototype features quickly; add or deepen tests after core behavior works.
 - Add dependencies only when requirements justify them.
 - Prefer simple local state and plain functions before abstractions.
 - Remove unused files, dead code, and empty folders.

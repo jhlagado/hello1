@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
+import { render, screen } from '@testing-library/react'
 
 import App from '@/App'
-import { render, screen } from '@/test/render'
 
 describe('App', () => {
   it('renders the hello starter screen', () => {
